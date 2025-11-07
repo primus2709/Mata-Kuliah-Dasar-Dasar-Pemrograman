@@ -19,7 +19,3 @@ Mahasiswa diharapkan memahami cara berpikir komputasional dan mampu menulis prog
 - Variabel, Tipe Data, dan Operator  
 - Struktur Kontrol (Percabangan dan Perulangan)  
 - Fungsi dan Prosedur  
-
-
-
-## 📂 Struktur Repository
